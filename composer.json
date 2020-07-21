@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Rubik\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "tightenco/collect": "^7.12"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
